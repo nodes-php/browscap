@@ -1,7 +1,7 @@
 {
-    "name": "browscap/browscap-php",
+    "name": "nodes/browscap",
     "type": "library",
-    "description": "Standalone replacement for php's native get_browser() function",
+    "description": "Fork of the officially supported Browscap PHP. Standalone replacement for php's native get_browser() function",
     "keywords": ["get_browser", "browser", "capabilities", "user agent"],
     "homepage": "https://github.com/browscap/browscap-php",
     "license": "MIT",
