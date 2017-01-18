@@ -319,7 +319,7 @@ class IniLoader
     {
         $internalLoader = $this->getLoader();
         $internalLoader
-            ->setRemoteVerUrl($this->getRemoteVersionUrl())
+            ->setRemoteVersionUrl($this->getRemoteVersionUrl())
             ->setTimeout($this->getTimeout())
         ;
 
